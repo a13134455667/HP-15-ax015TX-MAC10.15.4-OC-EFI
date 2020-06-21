@@ -1,12 +1,12 @@
 # HP-15-ax015TX-MAC10.15.4-OC-EFI
 ## 惠普暗影精灵2-15-ax015TX  
-   | 硬件   | 型号    |  
-   | : ---- : | : -----:   | 
-   | CPU | I5 6300HQ |  
-   | : 内存 : | 8G*2 DDR4 |   
-   | : 显卡 : | Intel HD Graphics 530 + NVIDIA GeForce GTX 960Mi |   
-   | : 网卡 : | Realtek RTL8111H + BCM94352z |   
-   | : 声卡 : | Realtek ALC295  |
+| 硬件| 型号|   
+| :----: | :----: |
+| CPU | I5 6300HQ |    
+|内存 | 8G*2 DDR4 |     
+|显卡| Intel HD Graphics 530 + NVIDIA GeForce GTX 960Mi |     
+|网卡| Realtek RTL8111H + BCM94352z |     
+|声卡| Realtek ALC295  |   
 ## 系统支持
 系统：macOS 10.15.6 b2  
 EFI:0C6.0  

@@ -1,7 +1,7 @@
 # HP-15-ax015TX-MAC10.15.4-OC-EFI
 ## 惠普暗影精灵2-15-ax015TX  
 | 硬件| 型号|   
-| :----: | :----: |
+| :----: | :---- |
 | CPU | I5 6300HQ |    
 |内存 | 8G*2 DDR4 |     
 |显卡| Intel HD Graphics 530 + NVIDIA GeForce GTX 960Mi |     
